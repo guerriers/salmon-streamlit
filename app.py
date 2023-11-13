@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.header("Faiy krub")
+st.header("salmon")
 
 st.write("Bar Chart")
 
